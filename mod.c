@@ -1,4 +1,4 @@
-/* change by ajitem*/	
+/* change by Ajitem*/	
 #include<stdio.h>
 #include<stdlib.h>
 
